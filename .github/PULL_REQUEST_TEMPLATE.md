@@ -1,13 +1,13 @@
-## 📝 Opis zmian
+## Opis zmian
 <!-- Krótki opis co zostało zmienione -->
 
-## 🔧 Typ zmian
+## Typ zmian
 - [ ] Nowa funkcjonalność
 - [ ] Poprawka błędu
 - [ ] Zmiana dokumentacji
 - [ ] Inne
 
-## ✅ Checklist
+## Checklist
 - [ ] Kod działa lokalnie
 - [ ] Testy przeszły
 - [ ] Zmiany zostały zreviewowane
